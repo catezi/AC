@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1479392724 source:d:\code block\code\ac\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<sstream>
+	"Headers/transform.h"
+	"Headers/AC.h"
+
+1479392579 source:d:\code block\code\ac\ac.cpp
+	<iostream>
+	<string.h>
+	<malloc.h>
+	<queue>
+	"Headers/AC.h"
+	"Headers/transform.h"
+
+1479388653 d:\code block\code\ac\headers\ac.h
+	<iostream>
+	<string.h>
+	<malloc.h>
+	<queue>
+
+1479391767 d:\code block\code\ac\headers\transform.h
+	<iostream>
+	<string>
+	<string.h>
+	<cstdio>
+	<sstream>
+
+1479392036 source:d:\code block\code\ac\transform.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<cstdio>
+	<sstream>
+	"Headers/transform.h"
+
